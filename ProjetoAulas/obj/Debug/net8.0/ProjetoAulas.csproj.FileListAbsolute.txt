@@ -26,3 +26,4 @@ C:\Users\alfad\Todos os curso\cursoC#\ProjetoAulas\obj\Debug\net8.0\refint\Proje
 C:\Users\alfad\Todos os curso\cursoC#\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.pdb
 C:\Users\alfad\Todos os curso\cursoC#\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
 C:\Users\alfad\Todos os curso\cursoC#\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll
+C:\Users\alfad\Todos os curso\cursoC#\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.sourcelink.json

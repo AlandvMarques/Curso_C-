@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Primeiro Hello, World!");
+﻿/*
+
+
+
+Console.WriteLine("Primeiro Hello, World!");
 
 
 // Aprendendo diferente tipos de dados:
@@ -106,3 +110,108 @@ Console.WriteLine(valido3);
 bool ativoTernario = true;
 string status = ativoTernario == false ? "Cadastro ativo" : "Cadastro inativo";
 Console.WriteLine(status);
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+// Criando a Primeira Função: 
+
+// Exemplo 1: 
+var nome1 = nomeCompleto();
+
+Console.WriteLine(nome1);
+
+string nomeCompleto(){
+
+    return "Alan Kevin";
+};
+
+// Exemplo 2:
+var nome2 = nomeCompleto2 ();
+
+Console.WriteLine(nome2);
+
+string nomeCompleto2 (){
+    string primeiroNome = "Alan";
+    string segundoNome = "Marques";
+
+    return primeiroNome + " " + segundoNome;
+};
+
+//Exemplo 3:
+var soma = somaValores();
+
+Console.WriteLine(soma);
+
+int somaValores(){
+    return 8 + 2;
+};
+
+
+//Utilizamos o void quando não precisamos retornar valor na função;
+// Exemplo 4:
+
+EscreverTodosResultados ();
+
+void EscreverTodosResultados(){
+    var n1 = testen1 ();
+    var n2 = testen2();
+
+    Console.WriteLine(n1);
+    Console.WriteLine(n2);
+};
+
+
+int testen1 (){
+    int primeiroN1= 10;
+    int segundoN2= 8;
+    
+    return primeiroN1 + segundoN2;
+};
+
+string testen2 (){
+    var primeiroN1= 10;
+    var segundoN2= 8;
+    
+    return primeiroN1 + " " + segundoN2;
+};
+
+*/
+
+
+
+//Criando Função que recebe parâmetros:
+
+//Exemplo 1:
+var soma = somaValores (3 ,5);
+
+Console.WriteLine (soma);
+
+int somaValores(int a, int b){
+    return a + b;
+};
+
+//Exemplo 2:
+
+var nome = nomeEIndade("Alan", 20);
+
+Console.WriteLine(nome);
+
+string nomeEIndade(string nome, int idade ){
+    return "Meu nome é " + nome + " e tnho "+ idade;
+};
