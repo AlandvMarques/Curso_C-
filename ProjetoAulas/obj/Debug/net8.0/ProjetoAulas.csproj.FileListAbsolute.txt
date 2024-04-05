@@ -27,3 +27,18 @@ C:\Users\alfad\Todos os curso\cursoC#\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas
 C:\Users\alfad\Todos os curso\cursoC#\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
 C:\Users\alfad\Todos os curso\cursoC#\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll
 C:\Users\alfad\Todos os curso\cursoC#\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.sourcelink.json
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.exe
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.deps.json
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.runtimeconfig.json
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.dll
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.pdb
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfoInputs.cache
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfo.cs
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.sourcelink.json
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.dll
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\refint\ProjetoAulas.dll
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.pdb
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
+C:\Users\alfad\Curso_Csharp\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll
